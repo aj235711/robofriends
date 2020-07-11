@@ -1,0 +1,15 @@
+@font-face {
+font-family: 'Thousandyard Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Thousandyard Regular'), url('Thousandyard-3B8X.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Thousandyard Regular';
+	color: #00FBFF;
+	font-weight: 500;
+	/*font-size: 2em;*/
+	/*border-bottom: 2px solid black;*/
+	/*font-size: 4rem;*/
+}
